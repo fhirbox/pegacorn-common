@@ -48,6 +48,12 @@
             <version>${version-org.json}</version>
             <type>jar</type>
         </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-io</artifactId>
+            <version>${version-org.eclipse.jetty.plugin-9}</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
     <properties>
         <netbeans.hint.license>apache20-asf</netbeans.hint.license>
