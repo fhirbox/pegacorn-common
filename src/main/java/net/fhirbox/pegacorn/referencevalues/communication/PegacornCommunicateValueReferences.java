@@ -1,5 +1,8 @@
 package net.fhirbox.pegacorn.referencevalues.communication;
 
+import javax.enterprise.context.ApplicationScoped;
+
+@ApplicationScoped
 public class PegacornCommunicateValueReferences {
 
     private static final String Group_Priority_Extension_Meaning = "http://pegacorn.fhirbox.net/pegacorn/R1/communicate/groups/group_priority";

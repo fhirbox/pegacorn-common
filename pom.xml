@@ -54,6 +54,12 @@
             <version>${version-org.eclipse.jetty.plugin-9}</version>
             <type>jar</type>
         </dependency>
+        <dependency>
+            <groupId>javax.enterprise</groupId>
+            <artifactId>cdi-api</artifactId>
+            <version>${javax.enterprise.cdi-api.version}</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
     <properties>
         <netbeans.hint.license>apache20-asf</netbeans.hint.license>
