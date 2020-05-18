@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package net.fhirbox.pegacorn.referencevalues.communication;
+package net.fhirbox.pegacorn.fhir.r4.referencevalues.Communication;
 
 /**
  *

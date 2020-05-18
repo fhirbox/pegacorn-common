@@ -20,7 +20,7 @@ package net.fhirplace.pegacorn.referencevalues.communication;
 
 import org.junit.jupiter.api.Test;
 
-import net.fhirbox.pegacorn.referencevalues.communication.RoomServerMsgType;
+import net.fhirbox.pegacorn.fhir.r4.referencevalues.Communication.RoomServerMsgType;
 
 import static org.junit.jupiter.api.Assertions.*;
 
